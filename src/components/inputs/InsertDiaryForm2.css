@@ -1,0 +1,41 @@
+.colorPicker{
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 100%;
+    height: 100vh;
+
+    transform: translateX(100%);
+    transition: 0.5s ease-in;
+
+    z-index: 10;
+}
+
+.colorPickerActive{
+    transform: translateX(0);
+}
+
+.unsplash{
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+
+    scroll-behavior: smooth;
+
+    transform: translateY(100%);
+    transition: 0.3s ease-in;
+
+    z-index: 101;
+}
+
+.unsplash-active{
+    transform: translateY(0);
+}
+
+@media (min-width: 720px) {
+    .colorPicker{
+        width: 50%;
+    }
+}
