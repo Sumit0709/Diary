@@ -2,6 +2,10 @@
 
 Created a prototype web application, where you can create a diary age and put in your ideas. 
 
+## Deployment
+
+Site is live here : https://diary0709.netlify.app/all-diary
+
 ## What does this application do?
 
 Allow users to view other people content.
