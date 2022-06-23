@@ -4,7 +4,7 @@ Created a prototype web application, where you can create a diary age and put in
 
 ## Deployment
 
-Site is live here : https://diary0709.netlify.app/all-diary
+Site is live here : https://diary0709.netlify.app/
 
 ## What does this application do?
 
