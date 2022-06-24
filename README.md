@@ -1,6 +1,6 @@
 # Diary
 
-Created a prototype web application, where you can create a diary age and put in your ideas. 
+Created a prototype web application, where you can create a diary page and put in your ideas. 
 
 ## Deployment
 
